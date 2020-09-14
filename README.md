@@ -1,2 +1,6 @@
 # hello-world
-new repository
+
+Hii world
+
+i am gunanidgi trivedi 
+trying to learn github
